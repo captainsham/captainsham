@@ -1,5 +1,3 @@
-## Ahoy
-
 ## About Me
 🚀 Software Engineer & Cloud Architect
 
